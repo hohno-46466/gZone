@@ -3,10 +3,10 @@
 Google Zone
 
     ./gZone
-     ├──   README.md
-     └──   README.md.old
+     ├──  README.md
+     └──  README.md.old
      
-     0 directories, 2 files (Tue Jul 12 21:06:46 JST 2022)
+     0 directories, 2 files (Sat Jul 16 16:00:17 JST 2022)
 
 
 Note:	url = https://github.com/hohno-46466/gZone
